@@ -4,7 +4,7 @@
 #
 Name     : perl-Mock-Sub
 Version  : 1.09
-Release  : 1
+Release  : 2
 URL      : https://cpan.metacpan.org/authors/id/S/ST/STEVEB/Mock-Sub-1.09.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/S/ST/STEVEB/Mock-Sub-1.09.tar.gz
 Summary  : 'Mock package, object and standard subroutines, with unit testing in mind.'
@@ -83,5 +83,4 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.34.0/Mock/Sub.pm
-/usr/lib/perl5/vendor_perl/5.34.0/Mock/Sub/Child.pm
+/usr/lib/perl5/*
