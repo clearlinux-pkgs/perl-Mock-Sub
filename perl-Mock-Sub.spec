@@ -4,7 +4,7 @@
 #
 Name     : perl-Mock-Sub
 Version  : 1.09
-Release  : 3
+Release  : 4
 URL      : https://cpan.metacpan.org/authors/id/S/ST/STEVEB/Mock-Sub-1.09.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/S/ST/STEVEB/Mock-Sub-1.09.tar.gz
 Summary  : 'Mock package, object and standard subroutines, with unit testing in mind.'
